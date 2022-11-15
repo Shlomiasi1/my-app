@@ -8,6 +8,7 @@ function App() {
       <h2>Hello</h2>
       <Person personName = "שלומי" loc = "ירושלים"/>
       <Person personName = "הדסה" loc = "ססס"/>
+      גגג
 
     </div>
   );
